@@ -57,4 +57,4 @@ client.user.setGame("KG UP`,"http://twitch.tv/PAYWANDcamper")
 
 
 
-client.login("ODAxNDc0MDM0MzgxODgxMzU1.YAhM3A.0jlF_lWTOhn-0OggpbpDYh6s4o4");//تۆکین لێرە دانێ
+client.login("ODAxNDc0MDM0MzgxODgxMzU1.YAhM3A.fFLkK3n18S8eg_7jTTXrQySs2lY");//تۆکین لێرە دانێ
